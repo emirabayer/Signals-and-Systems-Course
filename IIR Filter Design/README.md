@@ -1,0 +1,1 @@
+Designed and implemented a bandpass IIR filter in MATLAB, calculated its difference equation, and tested it with chirp signals. Analyzed the filter’s frequency response through plots of impulse response, pole-zero map, and magnitude/phase. Also passed signals through the filter, explored real-time signal processing, and filtered digitized music and voice recordings.
