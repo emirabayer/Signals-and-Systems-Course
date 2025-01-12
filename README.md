@@ -1,7 +1,10 @@
 # Signals and Systems Course
+This repository contains MATLAB implementations for the lab assignments from the course Signals and Systems at Bilkent. The labs cover various topics from sinusoidal signals to complex systems modeling with MATLAB.
 
+***course link:***https://catalog.bilkent.edu.tr/course/c14321.html
+<br>
 
-***course link:****https://catalog.bilkent.edu.tr/course/c14321.html
+<br>
 
 ## Lab 1 - Investigating Discrete Cosine Signals
 Developed MATLAB programs to generate and analyze discrete cosine signals. Tasks included creating finite segments, visualizing graphs with improved styles, quantizing signals, and analyzing periodicity properties. Focused on comparing multiple signals and identifying fundamental periods for a deeper understanding of discrete signal characteristics.
