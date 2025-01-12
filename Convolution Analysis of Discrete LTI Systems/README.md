@@ -1,0 +1,1 @@
+Implemented explicit convolution procedures for analyzing discrete linear time-invariant systems. Tasks included verifying causality and stability, deriving outputs analytically, and computing numerical convolutions for various input signals. MATLAB programs were used to compare analytical and numerical results, with focus on signal representation and system properties.
