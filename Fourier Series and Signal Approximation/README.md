@@ -1,0 +1,1 @@
+This lab involved analyzing Fourier series expansions and signal approximations using MATLAB. Key tasks included discretizing and reconstructing a rectangular waveform, visualizing its spectrum, examining the Gibbs phenomenon, and analyzing harmonic contributions. The study was extended to full-wave and half-wave rectified signals, with MATLAB codes and plots provided.
