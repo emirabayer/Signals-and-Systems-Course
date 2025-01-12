@@ -1,0 +1,1 @@
+Developed MATLAB programs to generate and analyze discrete cosine signals. Tasks included creating finite segments, visualizing graphs with improved styles, quantizing signals, and analyzing periodicity properties. Focused on comparing multiple signals and identifying fundamental periods for a deeper understanding of discrete signal characteristics.
